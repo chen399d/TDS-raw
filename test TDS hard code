@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/chen399d/TDS-test/main/TDS%20hard%20code'))()
